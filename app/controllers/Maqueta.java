@@ -13,4 +13,6 @@ public class Maqueta extends Controller{
     public static void menu() {render();}
     public static void header(){render();}
     public static void formReserva(){render();}
+    public static void formularioCrearPersona(){render();};
+
 }
