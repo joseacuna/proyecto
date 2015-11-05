@@ -5,6 +5,7 @@
 # Home page
 GET     /                                       Application.index
 GET     /maqueta                                    Maqueta.index
+GET     /login                                    Login.index
 GET                                                    @{Maqueta}
 
 # Ignore favicon requests

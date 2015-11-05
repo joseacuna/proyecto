@@ -1,7 +1,12 @@
 package models;
 
-/**
- * Created by slenderman on 15-10-15.
- */
+import javax.persistence.Entity;
+
+@Entity
 public class Departamento {
+
+    public String nombre;
+
+
+
 }
